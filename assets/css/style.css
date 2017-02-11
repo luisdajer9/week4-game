@@ -1,0 +1,40 @@
+body {
+	/*background-image: url(week4-game\assets\images\asanoha.png);*/
+	background-color: #D6EFAF;
+}
+
+img {
+	width: 100px;
+	height: 100px;
+	border: solid;
+	border-color: #304E01;
+}
+
+#heading {
+	background-color: #749B34;
+	width: 270px;
+}
+
+#Instructions {
+	width:450px;
+	background-color: #749B34;
+	border: solid;
+	border-color: #304E01;
+	font-size: 20px;
+}
+
+#randomScore {
+	width:300px;
+	background-color: #749B34;
+	font-size: 26px;
+	border:solid;
+	border-color: #304E01;
+}
+
+#playerScore {
+	width:300px;
+	background-color: #749B34;
+	font-size: 26px;
+	border:solid;
+	border-color: #304E01;
+}
